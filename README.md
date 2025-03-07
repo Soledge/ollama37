@@ -1,11 +1,13 @@
 <div align="center">
   <a href="https://ollama.com">
-    <img alt="ollama" height="200px" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
+    <img alt="ollama|K80" height="200px" src="https://github.com/ollama/ollama/assets/3325447/0d0b44e2-8f4a-4e99-9b52-a5c1c741c8f7">
   </a>
 </div>
 
 # Ollama
-K80 support | Ubuntu 24.04 | 03/2025
+Nvidia Tesla Kepler 80 support | 
+Ubuntu 24.04 | 
+03/2025;
 
 Officially unsupported, but lots of us are hobbyists; this is a Hitchhikers guide to running Ollama on commodity ‘unsupported’ 
 nvidia cards in the Kepler series: 
